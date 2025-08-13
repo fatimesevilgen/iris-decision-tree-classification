@@ -29,7 +29,8 @@ This project demonstrates classification and visualization on the iris dataset u
 ## Example Visualization
 Below is an example plot showing decision boundaries and data points:
 
-<img width="579" height="430" alt="image" src="https://github.com/user-attachments/assets/6ccfa6dc-69e2-4e20-a53d-b6a85c64d707" />
+<img width="579" height="430" alt="image" src="https://github.com/user-attachments/assets/de19b310-d778-4110-80f1-8c4eaa16e293" />
+
 
 **Colors:**
 - 🔴 Red: Setosa
