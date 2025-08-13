@@ -1,6 +1,7 @@
 # 🌸 Iris Decision Tree Classification
 
 This project demonstrates classification and visualization on the iris dataset using the Decision Tree algorithm.
+
 <img width="762" height="314" alt="image" src="https://github.com/user-attachments/assets/a1583cb0-6f5b-4891-8677-99e6e3f427da" />
 
 
